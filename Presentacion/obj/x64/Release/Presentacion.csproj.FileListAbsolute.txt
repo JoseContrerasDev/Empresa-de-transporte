@@ -1,0 +1,16 @@
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\bin\x64\Release\Presentacion.exe.config
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\bin\x64\Release\Presentacion.exe
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\bin\x64\Release\Presentacion.pdb
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\bin\x64\Release\Datos.dll
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\bin\x64\Release\Entidades.dll
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\bin\x64\Release\Datos.pdb
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\bin\x64\Release\Entidades.pdb
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\obj\x64\Release\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\obj\x64\Release\Presentacion.frmPrincipal.resources
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\obj\x64\Release\Presentacion.Login.resources
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\obj\x64\Release\Presentacion.Properties.Resources.resources
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\obj\x64\Release\Presentacion.csproj.GenerateResource.cache
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\obj\x64\Release\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\obj\x64\Release\Presentacion.csproj.CopyComplete
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\obj\x64\Release\Presentacion.exe
+C:\Users\Joseph\Desktop\Integrador - copia\Presentacion\obj\x64\Release\Presentacion.pdb
